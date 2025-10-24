@@ -1,6 +1,3 @@
-# pepper-lab-ai-notes
-Notes for Pepper Lab – AI for My Future course
-
 # 🧠 Pepper Lab – AI for My Future
 
 This repository contains my notes for the **Pepper Lab course: AI for My Future**.
