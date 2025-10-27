@@ -10,4 +10,5 @@ It also introduces topics like Machine Learning (ML), Deep Learning (DL), Natura
 
 ### Chapter 1 : Fundamentals
 ### Chapter 2 : Generative AI
+### Chapter 3 : Evolution of Search
 
